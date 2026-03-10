@@ -1,42 +1,37 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abhay+Chand+Ramola;MCA+student+who+loves+building+things;Web+Developer+%7C+Python+Enthusiast;Always+learning+something+new"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3200&pause=700&color=7C3AED&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abhay+Chand+Ramola;I+build+projects+and+experiment+with+code;Web+development+%7C+Python+%7C+C%2B%2B;Always+learning+something+new"/>
 </p>
 
 ---
 
-### A little about me
+### About me
 
-I’m an MCA student from **Dehradun, India**, and most of my free time goes into building small software ideas into working projects.  
-Right now I'm mostly focused on **web development, Python, and improving my problem-solving skills with C++**.
+I'm currently pursuing **MCA** and spending most of my time building small projects and experimenting with new technologies.
 
-I enjoy projects that actually feel useful — things like automation tools, assistants, or systems that simulate real products.
+What I enjoy doing most:
+- building **full-stack web projects**
+- improving **DSA and problem solving**
+- learning **better backend development**
+- exploring small **AI tools and automation**
 
-Recently I’ve been experimenting with things like:
-- building **full-stack web apps**
-- improving **DSA and coding logic**
-- learning better **backend architecture**
-- exploring small **AI-related tools**
+I like turning ideas into **working software**, even if they start as small experiments.
 
 ---
 
-### Some projects I’ve enjoyed building
+### Things I've built recently
 
 🚆 **Railway Ticket Booking System**  
-A full-stack project where users can search trains, book tickets, generate PNR numbers, and download tickets.
+A train booking simulation with train search, ticket booking, PNR generation and downloadable tickets.
 
 🤖 **Desktop AI Assistant**  
-A voice-controlled Python assistant that can open apps, search the web, and fetch real-time information.
+A Python assistant that can open applications, search the web and fetch useful information.
 
 🔊 **Text-to-Speech Web App**  
-A browser application that converts text to speech using the Web Speech API.
+A simple web application that converts text into speech using the Web Speech API.
 
 ---
 
-### Languages and tools I work with
+### Languages and tools I use
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode"/>
@@ -44,44 +39,57 @@ A browser application that converts text to speech using the Web Speech API.
 
 ---
 
-### A few places you can find me
+### Where you can reach me
 
 <p align="center">
 
 <a href="mailto:ramolaabhay9211@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/abhay-ramola-91451a216">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/abhaayy28">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.quora.com/profile/Abhay-3063">
-<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+<img src="https://img.shields.io/badge/quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-### My GitHub activity
+### What my GitHub activity looks like
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true" height="165"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### A random developer thought
+### My contribution graph but eaten by a snake 🐍
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Abhay3218j/Abhay3218j/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### A little developer inspiration
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -90,5 +98,5 @@ A browser application that converts text to speech using the Web Speech API.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=Profile%20views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=profile+views&color=7C3AED&style=flat"/>
 </p>
