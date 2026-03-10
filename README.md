@@ -15,22 +15,35 @@ Most of my time goes into learning new technologies and turning ideas into worki
 
 ---
 
-### 🏆 GitHub Trophy Hall
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhay3218j&theme=tokyonight&no-bg=false&margin-w=4&column=7" alt="trophy" />
-  </a>
-</p>
-
----
-
 ### 🚀 Projects I’ve Built
 
-🚆 **Railway Ticket Booking System** *Train search, booking, PNR generation and downloadable tickets.* ![Progress](https://geps.dev/bin/geps?name=Completed&width=300&stroke=%237C3AED&fill=%2322D3EE)
+<details open>
+<summary><b>🚆 Railway Ticket Booking System</b></summary>
+<br>
+<blockquote>Train search, booking, PNR generation and downloadable tickets.</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx" />
+  <img src="https://img.shields.io/badge/Tech-Python_Flask-blue?style=for-the-badge&logo=flask" />
+</p>
+</details>
 
-🤖 **Desktop AI Assistant** *Python assistant that opens apps, searches the web and fetches useful information.* ![Progress](https://geps.dev/bin/geps?name=Development&width=300&stroke=%237C3AED&fill=%2322D3EE)
+<details open>
+<summary><b>🤖 Desktop AI Assistant</b></summary>
+<br>
+<blockquote>Python assistant that opens apps, searches the web and fetches useful information.</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge&logo=python" />
+</p>
+</details>
 
-🔊 **Text-to-Speech Web App** *A browser application that converts text into speech using Web Speech API.* ![Progress](https://geps.dev/bin/geps?name=Live&width=300&stroke=%237C3AED&fill=%2322D3EE)
+<details open>
+<summary><b>🔊 Text-to-Speech Web App</b></summary>
+<br>
+<blockquote>A browser application that converts text into speech using Web Speech API.</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=javascript" />
+</p>
+</details>
 
 ---
 
@@ -59,16 +72,12 @@ Most of my time goes into learning new technologies and turning ideas into worki
 > **"Watch closely as this snake eats my contributions faster than I can write bugs."** 🐍💻
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Eating Contributions" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay3218j&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/Abhay3218j/Abhay3218j/output/github-contribution-grid-snake.svg" alt="Snake Eating Contributions" />
 </p>
 
 ---
 
-### 🌐 Connect With Me (All Links Verified)
+### 🌐 Connect With Me (All Links Active)
 
 <p align="center">
   <a href="mailto:ramolaabhay9211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
