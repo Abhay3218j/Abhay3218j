@@ -1,52 +1,98 @@
 <h1 align="center">Hi 👋, I'm Abhay Chand Ramola</h1>
-<h3 align="center">MCA Student | Developer | Web & AI Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=600&lines=MCA+Student;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🚀 About Me
-🔭 Currently working on **Full-Stack Web Development projects**  
-🌱 Learning **Advanced Python, Flask, and Data Structures & Algorithms**  
-👯 Looking to collaborate on **Open Source & Web Development projects**  
-💬 Ask me about **C, C++, Java, Python, JavaScript & Web Development**  
-⚡ Fun fact: I enjoy building **real-world projects like AI assistants and train booking systems**
+## ✨ About Me
+
+🔭 **Currently Working On**  
+Building **Full-Stack Web Development projects** and improving **Data Structures & Algorithms**
+
+👯 **Looking To Collaborate On**  
+Open-source projects related to **Web Development, AI tools, and automation**
+
+🤝 **Looking For Help With**  
+Learning **System Design and Scalable Backend Development**
+
+🌱 **Currently Learning**  
+**Advanced Python, Flask, and Problem Solving using C++**
+
+💬 **Ask Me About**  
+C • C++ • Java • Python • JavaScript • Web Development
+
+⚡ **Fun Fact**  
+I love building **real-world software like AI assistants and train booking systems**
 
 ---
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhaayy28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-ramola-91451a216)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Abhay-3063)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXWofKLYg2pWwyuTHYF8ahA)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramolaabhay9211@gmail.com)
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ramolaabhay9211@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/abhay-ramola-91451a216">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/abhaayy28">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.quora.com/profile/Abhay-3063">
+<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-## 💻 Tech Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode" />
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true)
+# 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## ✨ Featured Projects
-🚆 **Railway Ticket Booking System** – Full stack train booking simulation with search, booking, and PNR system.  
-🤖 **AI Desktop Assistant** – Voice-based assistant for performing system tasks.  
-🔊 **Text-to-Speech Web App** – Converts text into speech using Web Speech API.
+# 🚀 Featured Projects
+
+🚆 **Railway Ticket Booking System**  
+Full-stack train booking simulation with search, booking, PNR and downloadable ticket.
+
+🤖 **AI Desktop Assistant**  
+Voice-based assistant that can open apps, search web and fetch data.
+
+🔊 **Text-to-Speech Web Application**  
+Web app converting text into speech using **Web Speech API**.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abhay3218j&label=Profile%20views&color=blue&style=flat)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
