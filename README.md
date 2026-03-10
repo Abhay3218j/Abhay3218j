@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhay Chand Ramola</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@ Building **Full-Stack Web Development Projects** and improving **Data Structures
 Open-source projects related to **Web Development, AI tools, and automation**
 
 🤝 I’m looking for help with  
-Learning **System Design** and building **Scalable Web Applications**
+Learning **System Design and Scalable Backend Development**
 
 🌱 I’m currently learning  
 **Advanced Python, Flask Backend Development, and Problem Solving using C++**
@@ -30,7 +30,7 @@ Learning **System Design** and building **Scalable Web Applications**
 **C, C++, Java, Python, JavaScript, Web Development**
 
 ⚡ Fun fact  
-I enjoy building **AI assistants and train booking systems** while exploring new technologies
+I enjoy building **AI assistants and train booking systems**
 
 ---
 
@@ -39,23 +39,23 @@ I enjoy building **AI assistants and train booking systems** while exploring new
 <p align="center">
 
 <a href="mailto:ramolaabhay9211@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/abhay-ramola-91451a216">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/abhaayy28">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.quora.com/profile/Abhay-3063">
-<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white">
+<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UCXWofKLYg2pWwyuTHYF8ahA">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
@@ -66,7 +66,7 @@ I enjoy building **AI assistants and train booking systems** while exploring new
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode"/>
 
 </p>
 
@@ -75,7 +75,7 @@ I enjoy building **AI assistants and train booking systems** while exploring new
 # 🚀 Featured Projects
 
 🚆 **Railway Ticket Booking System**  
-Full-stack train booking simulation with search, booking, PNR and downloadable ticket.
+Full-stack train booking simulation with train search, booking, PNR and downloadable ticket.
 
 🤖 **AI Desktop Assistant**  
 Voice-based assistant capable of opening apps, searching the web and fetching weather updates.
@@ -103,7 +103,7 @@ Web application converting text into speech using **Web Speech API**.
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
