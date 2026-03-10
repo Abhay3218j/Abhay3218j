@@ -1,40 +1,50 @@
-<h1 align="center">Hi 👋, I'm Abhay Chand Ramola</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abhay+Chand+Ramola;MCA+student+who+loves+building+things;Web+Developer+%7C+Python+Enthusiast;Always+learning+something+new"/>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MCA+Student;Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 </p>
 
 ---
 
+### A little about me
+
+I’m an MCA student from **Dehradun, India**, and most of my free time goes into building small software ideas into working projects.  
+Right now I'm mostly focused on **web development, Python, and improving my problem-solving skills with C++**.
+
+I enjoy projects that actually feel useful — things like automation tools, assistants, or systems that simulate real products.
+
+Recently I’ve been experimenting with things like:
+- building **full-stack web apps**
+- improving **DSA and coding logic**
+- learning better **backend architecture**
+- exploring small **AI-related tools**
+
+---
+
+### Some projects I’ve enjoyed building
+
+🚆 **Railway Ticket Booking System**  
+A full-stack project where users can search trains, book tickets, generate PNR numbers, and download tickets.
+
+🤖 **Desktop AI Assistant**  
+A voice-controlled Python assistant that can open apps, search the web, and fetch real-time information.
+
+🔊 **Text-to-Speech Web App**  
+A browser application that converts text to speech using the Web Speech API.
+
+---
+
+### Languages and tools I work with
+
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode"/>
 </p>
 
 ---
 
-# 💫 About Me
-
-🔭 I’m currently working on  
-Building **Full-Stack Web Development Projects** and improving **Data Structures & Algorithms**
-
-👯 I’m looking to collaborate on  
-Open-source projects related to **Web Development, AI tools, and automation**
-
-🤝 I’m looking for help with  
-Learning **System Design and Scalable Backend Development**
-
-🌱 I’m currently learning  
-**Advanced Python, Flask Backend Development, and Problem Solving using C++**
-
-💬 Ask me about  
-**C, C++, Java, Python, JavaScript, Web Development**
-
-⚡ Fun fact  
-I enjoy building **AI assistants and train booking systems**
-
----
-
-# 🌐 Connect With Me
+### A few places you can find me
 
 <p align="center">
 
@@ -54,64 +64,24 @@ I enjoy building **AI assistants and train booking systems**
 <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCXWofKLYg2pWwyuTHYF8ahA">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+### My GitHub activity
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-🚆 **Railway Ticket Booking System**  
-Full-stack train booking simulation with train search, booking, PNR and downloadable ticket.
-
-🤖 **AI Desktop Assistant**  
-Voice-based assistant capable of opening apps, searching the web and fetching weather updates.
-
-🔊 **Text-to-Speech Web Application**  
-Web application converting text into speech using **Web Speech API**.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true" height="170"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# ✨ Random Dev Quote
+### A random developer thought
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -120,5 +90,5 @@ Web application converting text into speech using **Web Speech API**.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=Profile%20views&color=blueviolet&style=flat"/>
 </p>
