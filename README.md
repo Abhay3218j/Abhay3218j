@@ -1,39 +1,38 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Abhay%20Chand%20Ramola&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=210&section=header&text=Abhay%20Chand%20Ramola&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Hi+I'm+Abhay+Chand+Ramola;I+love+building+real+software;Web+Development+%7C+Python+%7C+C%2B%2B;Always+learning+something+new"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Abhay+Chand+Ramola;I+enjoy+building+real+software;Full+Stack+Development+%7C+Python+%7C+C%2B%2B;Always+learning+new+things"/>
 </p>
 
 ---
 
-### About me
+### A bit about me
 
-I'm currently pursuing **MCA** and I enjoy turning ideas into working software.  
-Most of my time goes into building projects and experimenting with different technologies.
+I'm currently pursuing **MCA** and I like experimenting with software ideas and turning them into working projects.
 
-Right now I'm focused on:
+Lately I've been focusing on:
 
-- improving **Data Structures and Algorithms**
-- building **full-stack web projects**
+- improving **Data Structures & Algorithms**
+- building **full-stack web applications**
 - learning **backend development**
-- experimenting with **Python tools and automation**
+- exploring **Python automation and tools**
 
 ---
 
-### Projects I’ve built
+### Projects I’ve enjoyed building
 
 🚆 **Railway Ticket Booking System**  
 A train booking simulation with train search, booking, PNR generation and downloadable tickets.
 
 🤖 **Desktop AI Assistant**  
-A Python voice assistant that can open applications, search the web and fetch useful information.
+A Python assistant that can open apps, search the web and fetch useful information.
 
-🔊 **Text-to-Speech Web Application**  
-A web app that converts text into speech using the Web Speech API.
+🔊 **Text-to-Speech Web App**  
+A web application using the Web Speech API to convert text into speech.
 
 ---
 
-### Languages and tools I use
+### Languages and tools I work with
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode"/>
@@ -41,7 +40,7 @@ A web app that converts text into speech using the Web Speech API.
 
 ---
 
-### Where you can find me
+### You can find me here
 
 <p align="center">
 
@@ -83,13 +82,13 @@ A web app that converts text into speech using the Web Speech API.
 
 ---
 
-### My contribution activity
+### Contribution activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay3218j&theme=tokyonight"/>
 
 ---
 
-### Contribution snake 🐍
+### Watch the snake eat contributions 🐍
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -97,7 +96,7 @@ A web app that converts text into speech using the Web Speech API.
 
 ---
 
-### Random developer thought
+### A random developer thought
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -106,7 +105,7 @@ A web app that converts text into speech using the Web Speech API.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=profile+views&color=7C3AED&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=profile+views&color=blueviolet&style=flat"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=120&section=footer"/>
