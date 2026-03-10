@@ -1,26 +1,74 @@
-### 📈 Activity Graph
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=200&section=header&text=Abhay%20Chand%20Ramola&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+### Hi, I'm Abhay 👋
+
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&width=435&lines=Pursuing+MCA;Building+Real-World+Systems;Mastering+DSA+%26+Backend;Python+Automation+Enthusiast"/>
+</p>
+
+I'm currently pursuing **MCA** and I enjoy building software projects that simulate real systems.  
+Most of my time goes into learning new technologies and turning ideas into working applications.
+
+---
+
+## 🚀 Projects I’ve Built
+
+🚆 **Railway Ticket Booking System**  
+Train search, booking, PNR generation and downloadable tickets.
+
+🤖 **Desktop AI Assistant**  
+Python assistant that opens apps, searches the web and fetches information.
+
+🔊 **Text-to-Speech Web App**  
+Browser application that converts text into speech using Web Speech API.
+
+---
+
+## 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay3218j&bg_color=1a1b27&color=22D3EE&line=7C3AED&point=ffffff&area=true&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask,mysql,git,github,vscode"/>
 </p>
 
 ---
 
-### 🐍 The Snack Section
-> **"Watch closely as this snake eats my contributions faster than I can write bugs."** 🐍💻
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3218j&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay3218j&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:ramolaabhay9211@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/abhay-ramola-91451a216">
@@ -56,11 +104,21 @@
 </a>
 
 <a href="https://x.com/wook2079549421">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UCXWofKLYg2pWwyuTHYF8ahA">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abhay3218j&label=Profile+Views&color=22D3EE&style=flat-square"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=120&section=footer"/>
 </p>
