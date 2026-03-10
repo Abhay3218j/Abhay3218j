@@ -17,33 +17,9 @@ Most of my time goes into learning new technologies and turning ideas into worki
 
 ### 🚀 Projects I’ve Built
 
-<details open>
-<summary><b>🚆 Railway Ticket Booking System</b></summary>
-<br>
-<blockquote>Train search, booking, PNR generation and downloadable tickets.</blockquote>
-<p>
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx" />
-  <img src="https://img.shields.io/badge/Tech-Python_Flask-blue?style=for-the-badge&logo=flask" />
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 Desktop AI Assistant</b></summary>
-<br>
-<blockquote>Python assistant that opens apps, searches the web and fetches useful information.</blockquote>
-<p>
-  <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge&logo=python" />
-</p>
-</details>
-
-<details open>
-<summary><b>🔊 Text-to-Speech Web App</b></summary>
-<br>
-<blockquote>A browser application that converts text into speech using Web Speech API.</blockquote>
-<p>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=javascript" />
-</p>
-</details>
+* 🚆 **Railway Ticket Booking System** — *Train search, booking, PNR generation and downloadable tickets.*
+* 🤖 **Desktop AI Assistant** — *Python assistant that opens apps, searches the web and fetches information.*
+* 🔊 **Text-to-Speech Web App** — *A browser application that converts text into speech using Web Speech API.*
 
 ---
 
@@ -56,7 +32,7 @@ Most of my time goes into learning new technologies and turning ideas into worki
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Stats (Live)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhay3218j&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=22D3EE&icon_color=7C3AED" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay3218j&theme=tokyonight&hide_border=true&stroke=7C3AED&fire=22D3EE" height="170"/>
@@ -68,11 +44,18 @@ Most of my time goes into learning new technologies and turning ideas into worki
 
 ---
 
+### 📈 Activity Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay3218j&theme=tokyo-night&area=true&hide_border=true&color=22D3EE" />
+</p>
+
+---
+
 ### 🐍 The Snack Section
 > **"Watch closely as this snake eats my contributions faster than I can write bugs."** 🐍💻
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay3218j/Abhay3218j/output/github-contribution-grid-snake.svg" alt="Snake Eating Contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=Snake%20Loading...&fontSize=30&animation=fadeIn" />
 </p>
 
 ---
